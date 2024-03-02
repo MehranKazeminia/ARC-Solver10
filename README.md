@@ -7,7 +7,7 @@ By: Somayyeh Gholami & Mehran Kazeminia
 
 ## Abstraction and Reasoning Challenge :
 
-- The ARC challenge was first launched on Kaggle in February 2020. Mr. François Chollet and his colleagues had prepared and arranged the corpus of tasks as well as the rules and regulations of the competition. We and the rest of the participants tried hard to get a good score, but it did not happen and most of the participants did not succeed. Various types of neural networks, different machine learning algorithms and other efforts such as using the Z3 programming language did not have good results.
+- The ARC challenge was first launched on Kaggle["Kaggle"]([https://lab42.global/](https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge/overview) in February 2020. Mr. François Chollet and his colleagues had prepared and arranged the corpus of tasks as well as the rules and regulations of the competition. We and the rest of the participants tried hard to get a good score, but it did not happen and most of the participants did not succeed. Various types of neural networks, different machine learning algorithms and other efforts such as using the Z3 programming language did not have good results.
 
 - After the challenge time was over, most of the participants published their notebooks. The successes were relatively limited, but different views can be seen in these notebooks. Of course, we started our work again and using our new ideas and the ideas in the public notebooks, we managed to solve at least thirty percent of the tasks.
 
