@@ -54,7 +54,7 @@ By: Somayyeh Gholami & Mehran Kazeminia
 - Humans are much better than machines in the first stage. But in the second and third stages, the matter can be exactly the opposite. That is, if all the basic keys are given to the machine, the power and speed of the machine will be thousands of times human. And this great power in the second and third stages can overcome the weaknesses of the first stage.
 
 <div>
-    <img src='[https://cdn-images-1.medium.com/max/1000/1*xD5fbm-EzmLYKld3v8Z8OA.png](https://cdn-images-1.medium.com/max/1000/1*sTs6-BqCyASkok3v88YADg.png)https://cdn-images-1.medium.com/max/1000/1*sTs6-BqCyASkok3v88YADg.png'> 
+    <img src='https://cdn-images-1.medium.com/max/1000/1*sTs6-BqCyASkok3v88YADg.png'> 
 </div>
 
 
