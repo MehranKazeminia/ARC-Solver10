@@ -1,5 +1,6 @@
 # ARC-Solver10
 By: Somayyeh Gholami & Mehran Kazeminia
+
 <div>
     <img src='https://cdn-images-1.medium.com/max/1000/1*7s_cV4TLZ1L31MJNj2Rk5w.png'> 
 </div>
@@ -11,6 +12,7 @@ By: Somayyeh Gholami & Mehran Kazeminia
 - After the challenge time was over, most of the participants published their notebooks. The successes were relatively limited, but different views can be seen in these notebooks. Of course, we started our work again and using our new ideas and the ideas in the public notebooks, we managed to solve at least thirty percent of the tasks.
 
 - In 2023, the ARC challenge was again held at ["Lab42"](https://lab42.global/) and we managed to get the best score in that competition. Our method was a combination of "Sklearn tree" and "Genetic Algorithm" as well as several solvers that solve tasks with specific characteristics. Finally, we combined our results with the results of the ["icecuber"](https://www.kaggle.com/code/icecuber/arc-1st-place-solution) notebook. Our notebook was called "Solver 7".
+
 <div>
     <img src='https://cdn-images-1.medium.com/max/1000/1*P6RH0HLuzKFw4DAGxIVdEw.png'> 
 </div>
@@ -34,6 +36,10 @@ By: Somayyeh Gholami & Mehran Kazeminia
 - It is always possible to improve the accuracy of the features of the solvers. That's why we wrote the "upgrade_solvers()" function. When a solver gives a correct answer to a task, this function calculates new values for the features based on the inputs and outputs of this task, and then replaces the values of the features of this solver with the average of the new and old values.
 
 - Fortunately, Solver 10's performance in finding the winning solver (for each task) was even better than our initial prediction. Meanwhile, feature calculations for solvers seem complicated. If you directly read the codes in the "Setting tasks and solvers" section, it might help you.
+
+<div>
+    <img src='https://cdn-images-1.medium.com/max/1000/1*xD5fbm-EzmLYKld3v8Z8OA.png'> 
+</div>
 
 ## Advantages of the "Solver 10" method :
 
