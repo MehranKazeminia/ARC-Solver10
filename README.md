@@ -52,3 +52,7 @@ By: Somayyeh Gholami & Mehran Kazeminia
 - Machines typically go through three steps to answer ARC tasks (as well as humans to answer intelligence questions). In the first stage, all the information of a task, including inputs and outputs, is checked, and based on these observations, several "hypotheses" are considered to perform the task correctly. In the second stage, these hypotheses are tested, so that the correct theory is chosen. In the third stage, the best theory is implemented for ARC, or for human intelligence questions, the correct option is selected among several options.
 
 - Humans are much better than machines in the first stage. But in the second and third stages, the matter can be exactly the opposite. That is, if all the basic keys are given to the machine, the power and speed of the machine will be thousands of times human. And this great power in the second and third stages can overcome the weaknesses of the first stage.
+
+# <div style="color:white;background-color:darkcyan;padding:1.5%;border-radius:15px 15px;font-size:1em;text-align:center">🐸 Observation 📊 Hypothesize 📈 Generates Theory</div>
+
+
