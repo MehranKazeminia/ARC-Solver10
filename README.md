@@ -34,3 +34,15 @@ By: Somayyeh Gholami & Mehran Kazeminia
 - It is always possible to improve the accuracy of the features of the solvers. That's why we wrote the "upgrade_solvers()" function. When a solver gives a correct answer to a task, this function calculates new values for the features based on the inputs and outputs of this task, and then replaces the values of the features of this solver with the average of the new and old values.
 
 - Fortunately, Solver 10's performance in finding the winning solver (for each task) was even better than our initial prediction. Meanwhile, feature calculations for solvers seem complicated. If you directly read the codes in the "Setting tasks and solvers" section, it might help you.
+
+## Advantages of the "Solver 10" method :
+
+- The number and variety of solvers in the "Solver 10" method has no limits. That is, for the machine to answer any question (open any lock), it is enough that its solver (its key) has already been stored. In addition, new solvers can always be created for new questions.
+
+- Another advantage is that "Solver 10" answers are definitely correct, provided that the question is standard (we explained the specifications of a standard task above).
+
+- The third advantage is the very good speed of the "Solver 10" method. As we explained above, if assigning features to solvers is done carefully, the winning solver will definitely be in the first ten to twenty percent of the list. That is, for each task, only the first ten to twenty percent of the sorted list of solvers should be tried (whether the winning solver is found or not).
+
+- The above advantages do not exist in any of the other methods such as decision trees or genetic algorithms. These methods can only answer some questions by spending a lot of time. At the same time, there is no certainty of the correctness of their answers.
+
+- Let's not forget that learning "Abstraction and Reasoning" for machines is a broad topic. But in this connection, the first and most essential topic for machines is learning "Core Knowledge". Our estimate is that if we create about ten thousand solvers, we can answer all the tasks related to "Core Knowledge" and of course, it is obvious that the number of solvers can always be increased. We have created more than six hundred solvers in the first step.
