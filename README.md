@@ -3,6 +3,7 @@ By: Somayyeh Gholami & Mehran Kazeminia
 <div>
     <img src='https://cdn-images-1.medium.com/max/1000/1*7s_cV4TLZ1L31MJNj2Rk5w.png'> 
 </div>
+
 ## Abstraction and Reasoning Challenge :
 
 - The ARC challenge was first launched on Kaggle in February 2020. Mr. François Chollet and his colleagues had prepared and arranged the corpus of tasks as well as the rules and regulations of the competition. We and the rest of the participants tried hard to get a good score, but it did not happen and most of the participants did not succeed. Various types of neural networks, different machine learning algorithms and other efforts such as using the Z3 programming language did not have good results.
@@ -13,6 +14,7 @@ By: Somayyeh Gholami & Mehran Kazeminia
 <div>
     <img src='https://cdn-images-1.medium.com/max/1000/1*P6RH0HLuzKFw4DAGxIVdEw.png'> 
 </div>
+
 ## Explanation for "Solver 10" method :
 
 - ARC is more than a competition for us and our main goal is not just to get a better score. Rather, it is interesting for us to understand how and with what process the machine takes the initial steps of "Abstraction and Reasoning" and we are interested in being a part of this story. That's why we designed and implemented "Solver 10" and are still developing it.
