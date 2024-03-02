@@ -46,3 +46,9 @@ By: Somayyeh Gholami & Mehran Kazeminia
 - The above advantages do not exist in any of the other methods such as decision trees or genetic algorithms. These methods can only answer some questions by spending a lot of time. At the same time, there is no certainty of the correctness of their answers.
 
 - Let's not forget that learning "Abstraction and Reasoning" for machines is a broad topic. But in this connection, the first and most essential topic for machines is learning "Core Knowledge". Our estimate is that if we create about ten thousand solvers, we can answer all the tasks related to "Core Knowledge" and of course, it is obvious that the number of solvers can always be increased. We have created more than six hundred solvers in the first step.
+
+## Last Explanation : 
+
+- Machines typically go through three steps to answer ARC tasks (as well as humans to answer intelligence questions). In the first stage, all the information of a task, including inputs and outputs, is checked, and based on these observations, several "hypotheses" are considered to perform the task correctly. In the second stage, these hypotheses are tested, so that the correct theory is chosen. In the third stage, the best theory is implemented for ARC, or for human intelligence questions, the correct option is selected among several options.
+
+- Humans are much better than machines in the first stage. But in the second and third stages, the matter can be exactly the opposite. That is, if all the basic keys are given to the machine, the power and speed of the machine will be thousands of times human. And this great power in the second and third stages can overcome the weaknesses of the first stage.
