@@ -13,9 +13,6 @@ By: Somayyeh Gholami & Mehran Kazeminia
 
 - In 2023, the ARC challenge was again held at ["Lab42"](https://lab42.global/) and we managed to get the best score in that competition. Our method was a combination of "Sklearn tree" and "Genetic Algorithm" as well as several solvers that solve tasks with specific characteristics. Finally, we combined our results with the results of the icecuber notebook. Our notebook was called "Solver 7".
 
-<div>
-    <img src='https://cdn-images-1.medium.com/max/1000/1*P6RH0HLuzKFw4DAGxIVdEw.png'> 
-</div>
 
 ## Explanation for "Solver 10" method :
 
